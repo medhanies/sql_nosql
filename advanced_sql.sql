@@ -1,6 +1,3 @@
---THIS HOMEWORK IS BROKEN INTO TWO SECTIONS: SQL
-
-
 --Problem #1 – Join not involving a Primary Key to a Foreign Key
 --List faculty who are also students. Include all student columns in the result. 
 
